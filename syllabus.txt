@@ -1,0 +1,29 @@
+01/01/2019
+=================
+
+Css
+
+->css describes the style of the document
+->css describes the elements how it should be displayed
+->css stands for cascading style sheets
+
+=======================================================================
+
+Types:
+
+1. Inline
+2. Internal
+3. External 
+  then its priority
+
+=======================================================================
+css syntax
+
+selector - basically a tags
+css is piece of block where code exists
+Each declaration contains property value pair seperated by semicolon
+Each block start and ends with open and close curlry braces
+Property value pair is seperated by colons
+
+=======================================================================
+
